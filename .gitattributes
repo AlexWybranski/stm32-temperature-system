@@ -1,1 +1,2 @@
 freertos/**/* linguist-vendored
+src/syscalls.c linguist-vendored
